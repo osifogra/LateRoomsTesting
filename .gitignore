@@ -1,3 +1,6 @@
 settings.gradle
 gradlew.bat
 gradle
+.idea
+gradle/wrapper
+LateroomAppTest.iml
